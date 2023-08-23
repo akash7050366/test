@@ -1,0 +1,6 @@
+
+{{#user}}
+Name: Akash kumar
+Skills: HTML, CSS, JS, Django, C, C++
+Email: akash7050366@gmail.com
+{{/user}}
